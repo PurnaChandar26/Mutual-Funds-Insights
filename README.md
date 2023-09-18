@@ -1,15 +1,15 @@
 Mutual Fund Insights
 ====================
 
-Project Overview
+Project Overview:
 ----------------
 
 This project aims to provide valuable insights for investors in the mutual fund industry through a comprehensive analysis of mutual fund data using both data visualization and exploratory data analysis (EDA). It represents a fusion of meticulous data cleaning and transformation, interactive data visualization using Tableau, and insightful EDA findings.The EDA findings enhanced my understanding of the variables and their inter-relationships. Utilizing these insights, I strategically integrated sorting and filtering functions into the Tableau dashboard, elevating its interactivity and productivity, ensuring a more effective dashboard.
                    
-Tableau Dashboard
+Tableau Dashboard:
 -----------------
 
-### Experience Data-Driven Investing:
+### Experience Data-Driven Investing
 
 [Click here to access the interactive Tableau dashboard!](https://public.tableau.com/app/profile/purna.chandar/viz/MutualFundIndia_16937582176870/Dashboard1)
 
@@ -23,10 +23,10 @@ Tableau Dashboard
 -   Visual Insights: Gain a deep understanding of mutual fund performance metrics, historical trends, and meaningful comparisons through interactive charts and graphs.
 -   Risk Assessment: Assess the risk associated with mutual funds using metrics like sortino, alpha, sd, beta, sharpe, and risk_level.
 
-Exploratory Data Analysis (EDA) Findings
+Exploratory Data Analysis (EDA) Findings:
 ----------------------------------------
 
-### Enhancing Data Understanding:
+### Enhancing Data Understanding
 
 [Click here to view the EDA findings!](https://drive.google.com/file/d/1PIM8NXjD5kLSEBCTd9hUSRL1ilfp_iYG/view)
 
@@ -45,6 +45,8 @@ Exploratory data analysis (EDA) was used to gain a deeper understanding of the d
 9.  Analysis on Fund Age: Analyzed the distribution of fund ages to understand the landscape of mutual funds in the dataset.
 10. Analysis on Risk Level: Examined the distribution of mutual funds based on their risk levels.
 
+## Methodology:
+
 ### Data Preparation and Cleaning
 
 I began by acquiring a dataset containing mutual fund information, including parameters such as scheme_name, min_sip, min_lumpsum, expense_ratio, fund_size_cr, and more. To ensure data accuracy, I meticulously cleaned and formatted the dataset, removing errors and inconsistencies. This step was crucial to produce reliable insights.
@@ -57,11 +59,11 @@ I performed Extract, Transform, Load (ETL) operations to transform the data into
 
 Once the data was clean and transformed, it was visualized using Tableau. A variety of charts and graphs were used to explore the data and identify trends and patterns. The visualizations were designed to be interactive and easy to understand, even for users with no prior experience with Tableau.
 
-### Conclusion
+## Conclusion:
 
 This project has demonstrated my ability to use data analysis and visualization skills to transform raw data into actionable information. The Tableau dashboard that I created provides valuable insights for investors in the mutual fund industry.
 
 
-### Disclaimer
+## Disclaimer:
 
 It's important to note that mutual fund investments are subject to market risks, and their values may fluctuate. This project is intended for educational purposes only and does not constitute financial advice or a recommendation to invest in any specific mutual fund.
