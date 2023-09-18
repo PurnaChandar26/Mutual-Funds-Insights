@@ -5,7 +5,7 @@ Project Overview:
 ----------------
 
 This project aims to provide valuable insights for investors in the mutual fund industry through a comprehensive analysis of mutual fund data using both data visualization and exploratory data analysis (EDA). It represents a fusion of meticulous data cleaning and transformation, interactive data visualization using Tableau, and insightful EDA findings.The EDA findings enhanced my understanding of the variables and their inter-relationships. Utilizing these insights, I strategically integrated sorting and filtering functions into the Tableau dashboard, elevating its interactivity and productivity, ensuring a more effective dashboard.
-                   
+                    
 Tableau Dashboard:
 -----------------
 
