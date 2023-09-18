@@ -6,13 +6,15 @@ Project Overview
 
 This project aims to provide valuable insights for investors in the mutual fund industry through a comprehensive analysis of mutual fund data using both data visualization and exploratory data analysis (EDA). It represents a fusion of meticulous data cleaning and transformation, interactive data visualization using Tableau, and insightful EDA findings.The EDA findings enhanced my understanding of the variables and their inter-relationships. Utilizing these insights, I strategically integrated sorting and filtering functions into the Tableau dashboard, elevating its interactivity and productivity, ensuring a more effective dashboard.
                    
-
 Tableau Dashboard
 -----------------
 
-### Experience Data-Driven Investing
+### Experience Data-Driven Investing:
 
-[Click here to access the interactive Tableau dashboard!](https://chat.openai.com/c/483a0ad4-9281-46f1-ac90-eaa3b9f99568#link-to-the-tableau-dashboard)
+[Click here to access the interactive Tableau dashboard!](https://public.tableau.com/app/profile/purna.chandar/viz/MutualFundIndia_16937582176870/Dashboard1)
+
+![Screenshot (27)](https://github.com/PurnaChandar26/Mutual-Funds-Insights/assets/97793147/1758b42e-67be-4f0b-96ab-9e9c1ef0163e)
+
 
 #### Features
 
@@ -24,11 +26,11 @@ Tableau Dashboard
 Exploratory Data Analysis (EDA) Findings
 ----------------------------------------
 
-### Enhancing Data Understanding
+### Enhancing Data Understanding:
 
-[Click here to view the EDA findings!](https://chat.openai.com/c/483a0ad4-9281-46f1-ac90-eaa3b9f99568#link-to-the-eda-findings)
+[Click here to view the EDA findings!](https://drive.google.com/file/d/1PIM8NXjD5kLSEBCTd9hUSRL1ilfp_iYG/view)
 
-In the EDA, various analyses were conducted to enhance the understanding of the dataset and strategically integrate sorting and filtering functions into the Tableau dashboard, making it more interactive and productive.
+Exploratory data analysis (EDA) was used to gain a deeper understanding of the data and identify relationships between different variables. Statistical tests and data visualizations were performed to explore the data and identify key insights for investors. The EDA findings were used to design the Tableau dashboard and strategically integrate sorting and filtering functions, enhancing its interactivity and productivity.
 
 #### Key EDA Analyses
 
@@ -43,8 +45,6 @@ In the EDA, various analyses were conducted to enhance the understanding of the 
 9.  Analysis on Fund Age: Analyzed the distribution of fund ages to understand the landscape of mutual funds in the dataset.
 10. Analysis on Risk Level: Examined the distribution of mutual funds based on their risk levels.
 
-## Process
-
 ### Data Preparation and Cleaning
 
 I began by acquiring a dataset containing mutual fund information, including parameters such as scheme_name, min_sip, min_lumpsum, expense_ratio, fund_size_cr, and more. To ensure data accuracy, I meticulously cleaned and formatted the dataset, removing errors and inconsistencies. This step was crucial to produce reliable insights.
@@ -53,10 +53,9 @@ I began by acquiring a dataset containing mutual fund information, including par
 
 I performed Extract, Transform, Load (ETL) operations to transform the data into a usable format. This involved structuring the data and ensuring it was ready for analysis. I also enriched the dataset with relevant information, including fund categories and subcategories, enabling better categorization and analysis.
 
+### Data Visualization
 
-### Important Note
-
-It's crucial to remember that mutual fund investments are subject to market risks, and their values may fluctuate. This project is intended for educational purposes only and does not constitute financial advice or a recommendation to invest in any specific mutual fund.
+Once the data was clean and transformed, it was visualized using Tableau. A variety of charts and graphs were used to explore the data and identify trends and patterns. The visualizations were designed to be interactive and easy to understand, even for users with no prior experience with Tableau.
 
 ### Conclusion
 
