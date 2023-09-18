@@ -18,8 +18,8 @@ Tableau Dashboard
 
 #### Features
 
--   Sorting and Filtering: Explore mutual funds by sorting and filtering based on various parameters like scheme_name, expense_ratio, fund_age_yr, and more.
 -   Category and Subcategory Selection: Analyze mutual funds by category (e.g., Hybrid, Equity, Debt) and subcategories (e.g., Thematic Mutual Funds, Sectoral Funds) for refined analysis.
+-   Sorting and Filtering: Explore mutual funds by sorting and filtering based on various parameters like scheme_name, expense_ratio, fund_age_yr, and more.
 -   Visual Insights: Gain a deep understanding of mutual fund performance metrics, historical trends, and meaningful comparisons through interactive charts and graphs.
 -   Risk Assessment: Assess the risk associated with mutual funds using metrics like sortino, alpha, sd, beta, sharpe, and risk_level.
 
