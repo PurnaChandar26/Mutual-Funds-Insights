@@ -63,7 +63,65 @@ Once the data was clean and transformed, it was visualized using Tableau. A vari
 
 This project has demonstrated my ability to use data analysis and visualization skills to transform raw data into actionable information. The Tableau dashboard that I created provides valuable insights for investors in the mutual fund industry.
 
+**How to Use the Dashboard Effectively**
 
+To effectively utilize the Tableau dashboard for mutual fund analysis, follow these steps:
+
+1\. **Select the Number of Funds (Top):**
+
+   - Use the slider or input field to specify the number of mutual funds you want to compare. You can choose a range from 5 to 100 mutual funds for analysis. This selection helps you narrow down the list of funds for detailed comparison.
+
+2\. **Choose the Fund Category:**
+
+   - Select the broad category of mutual funds you want to analyze. Categories include Equity, Debt, Hybrid, Solution Oriented, and others. This choice will filter the funds within your selected category.
+
+3\. **Specify the Subcategory:**
+
+   - Further refine your analysis by choosing a subcategory within the broader fund category. For example, you can select subcategories like ELSS Mutual Funds, Equity Savings Mutual Funds, Fixed Maturity Plans, and more. This will help you focus on a specific type of fund.
+
+4\. **View the Mutual Fund Analysis Table:**
+
+   - Once you've selected the number of funds, category, and subcategory, the dashboard will generate a detailed mutual fund analysis table.
+
+   - This table will display the individual mutual funds, with each fund represented as a row. The columns in the table provide information on:
+
+     - Fund Size in Crores
+
+     - Rating
+
+     - Minimum SIP (Systematic Investment Plan)
+
+     - Minimum Lumpsum Investment
+
+     - 1-Year, 3-Year, and 5-Year Return Rates
+
+     - Alpha
+
+     - Beta
+
+     - Sharpe Ratio
+
+     - Sortino Ratio
+
+     - Standard Deviation (SD)
+
+     - Expense Ratio
+
+     - Fund Age
+
+5\. **Explore the 3-Year Fund Returns Table:**
+
+   - This table shows all the mutual funds in your selected subcategory and provides their 3-year return percentages.
+
+   - The background is a heat map that helps you quickly identify trends and variations in returns.
+
+6\. **Compare ROI for Selected Funds:**
+
+   - The dashboard also offers a bar graph that compares the Return on Investment (ROI) for the selected number of top funds in your chosen subcategory.
+
+   - The graph displays 1-Year, 3-Year, and 5-Year returns for an easy visual comparison of fund performance.
+
+By following these steps, you can make data-driven investment decisions and gain valuable insights into the mutual fund industry. Remember that this dashboard is for educational purposes and does not constitute financial advice. Mutual fund investments are subject to market risks, and it's essential to conduct thorough research and consider your financial goals and risk tolerance before making investment decisions.
 ## Disclaimer:
 
 It's important to note that mutual fund investments are subject to market risks, and their values may fluctuate. This project is intended for educational purposes only and does not constitute financial advice or a recommendation to invest in any specific mutual fund.
