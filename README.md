@@ -82,6 +82,7 @@ To effectively utilize the Tableau dashboard for mutual fund analysis, follow th
 -   Once you've specified the number of top funds, the category, and, if applicable, the subcategory, the dashboard will generate a comprehensive mutual fund analysis table. This table will display individual mutual funds as rows and various parameters as columns, including Fund Size (in crores), Rating, Minimum SIP (Systematic Investment Plan), Minimum Lumpsum, 1-Year, 3-Year, and 5-Year Returns, Alpha, Beta, Sharpe Ratio, Sortino Ratio, Standard Deviation (SD), Expense Ratio, and Fund Age.
 
 -   You can sort each column in ascending or descending order to compare and analyze the funds based on your preferred criteria. For example, you can sort by 5-Year Returns to identify funds with the best long-term performance, or sort by Expense Ratio to find funds with lower expenses.
+
 <br>
 
 #### 5. Explore the 3-Year Fund Returns Table:
