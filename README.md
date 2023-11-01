@@ -77,7 +77,7 @@ To effectively utilize the Tableau dashboard for mutual fund analysis, follow th
 
 - Further refine your analysis by choosing a subcategory within the broader fund category. For example, you can select subcategories like ELSS Mutual Funds, Equity Savings Mutual Funds, Fixed Maturity Plans, and more. This will help you focus on a specific type of fund.
 <br>
-4\. **View the Mutual Fund Analysis Table:**
+View the Mutual Fund Analysis Table:
 
 -   Once you've specified the number of top funds, the category, and, if applicable, the subcategory, the dashboard will generate a comprehensive mutual fund analysis table. This table will display individual mutual funds as rows and various parameters as columns, including Fund Size (in crores), Rating, Minimum SIP (Systematic Investment Plan), Minimum Lumpsum, 1-Year, 3-Year, and 5-Year Returns, Alpha, Beta, Sharpe Ratio, Sortino Ratio, Standard Deviation (SD), Expense Ratio, and Fund Age.
 
