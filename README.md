@@ -65,18 +65,22 @@ Once the data was clean and transformed, it was visualized using Tableau. A vari
 
 To effectively utilize the Tableau dashboard for mutual fund analysis, follow these steps:
 <br>
-1\. **Select the Number of Funds (Top):**
+
+### Select the Number of Funds (Top):
 
 - Use the slider or input field to specify the number of mutual funds you want to compare. You can choose a range from 5 to 100 mutual funds for analysis. This selection helps you narrow down the list of funds for detailed comparison.
 <br>
-2\. **Choose the Fund Category:**
+
+### Choose the Fund Category:
 
 - Select the broad category of mutual funds you want to analyze. Categories include Equity, Debt, Hybrid, Solution Oriented, and others. This choice will filter the funds within your selected category.
 <br>
+
 ### Specify the Subcategory:
 
 - Further refine your analysis by choosing a subcategory within the broader fund category. For example, you can select subcategories like ELSS Mutual Funds, Equity Savings Mutual Funds, Fixed Maturity Plans, and more. This will help you focus on a specific type of fund.
 <br>
+
 ### View the Mutual Fund Analysis Table:
 
 - Once you've specified the number of top funds, the category, and, if applicable, the subcategory, the dashboard will generate a comprehensive mutual fund analysis table. This table will display individual mutual funds as rows and various parameters as columns, including Fund Size (in crores), Rating, Minimum SIP (Systematic Investment Plan), Minimum Lumpsum, 1-Year, 3-Year, and 5-Year Returns, Alpha, Beta, Sharpe Ratio, Sortino Ratio, Standard Deviation (SD), Expense Ratio, and Fund Age.
