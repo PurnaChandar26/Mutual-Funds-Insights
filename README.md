@@ -93,7 +93,7 @@ View the Mutual Fund Analysis Table:
 
 <br>
 
-6\. **Compare ROI for Selected Funds:**
+### Compare ROI for Selected Funds:
 
 - The dashboard also offers a bar graph that compares the Return on Investment (ROI) for the selected number of top funds in your chosen subcategory.
 
