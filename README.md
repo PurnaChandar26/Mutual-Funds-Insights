@@ -76,7 +76,7 @@ To effectively utilize the Tableau dashboard for mutual fund analysis, follow th
 - Select the broad category of mutual funds you want to analyze. Categories include Equity, Debt, Hybrid, Solution Oriented, and others. This choice will filter the funds within your selected category.
 <br>
 
-### Specify the Subcategory:
+### 3. Specify the Subcategory:
 
 - Further refine your analysis by choosing a subcategory within the broader fund category. For example, you can select subcategories like ELSS Mutual Funds, Equity Savings Mutual Funds, Fixed Maturity Plans, and more. This will help you focus on a specific type of fund.
 <br>
