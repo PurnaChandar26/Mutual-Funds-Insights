@@ -71,7 +71,7 @@ To effectively utilize the Tableau dashboard for mutual fund analysis, follow th
 - Use the slider or input field to specify the number of mutual funds you want to compare. You can choose a range from 5 to 100 mutual funds for analysis. This selection helps you narrow down the list of funds for detailed comparison.
 <br>
 
-### Choose the Fund Category:
+### 2. Choose the Fund Category:
 
 - Select the broad category of mutual funds you want to analyze. Categories include Equity, Debt, Hybrid, Solution Oriented, and others. This choice will filter the funds within your selected category.
 <br>
