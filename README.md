@@ -66,7 +66,7 @@ Once the data was clean and transformed, it was visualized using Tableau. A vari
 To effectively utilize the Tableau dashboard for mutual fund analysis, follow these steps:
 <br>
 
-### Select the Number of Funds (Top):
+### 1. Select the Number of Funds (Top):
 
 - Use the slider or input field to specify the number of mutual funds you want to compare. You can choose a range from 5 to 100 mutual funds for analysis. This selection helps you narrow down the list of funds for detailed comparison.
 <br>
