@@ -89,7 +89,7 @@ To effectively utilize the Tableau dashboard for mutual fund analysis, follow th
 
 <br>
 
-#### 5. Explore the 3-Year Fund Returns Table:
+### 5. Explore the 3-Year Fund Returns Table:
 
 - This table shows all the mutual funds in your selected subcategory and provides their 3-year return percentages.
 
