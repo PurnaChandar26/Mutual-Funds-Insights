@@ -46,7 +46,6 @@ Exploratory data analysis (EDA) was used to gain a deeper understanding of the d
 10. Analysis on Risk Level: Examined the distribution of mutual funds based on their risk levels.
 
 ## Methodology:
-
 ### Data Preparation and Cleaning
 
 I began by acquiring a dataset containing mutual fund information, including parameters such as scheme_name, min_sip, min_lumpsum, expense_ratio, fund_size_cr, and more. To ensure data accuracy, I meticulously cleaned and formatted the dataset, removing errors and inconsistencies. This step was crucial to produce reliable insights.
